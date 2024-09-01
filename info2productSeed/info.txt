@@ -1,0 +1,31 @@
+id:1
+name:"MB20 鐵灰"
+description:"ic! Berlin X Mercedes-Benz"
+
+id:2
+name:"MB20 黑"
+description:"ic! Berlin X Mercedes-Benz"
+
+id:3
+name:"MB19 銀"
+description:"ic! Berlin X Mercedes-Benz"
+
+id:4
+name:"MB20 古銅"
+description:"ic! Berlin X Mercedes-Benz"
+
+id:5
+name:"MB20 槍"
+description:"ic! Berlin X Mercedes-Benz"
+
+id:6
+name:"Thetis 霧黑"
+description:"ic! Berlin X Mercedes-Benz"
+
+id:7
+name:"Rhodium 黑"
+description:"ic! Berlin X Mercedes-Benz"
+
+id:8
+name:"Iridium 槍"
+description:"ic! Berlin X Mercedes-Benz"

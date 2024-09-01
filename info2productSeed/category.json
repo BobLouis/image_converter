@@ -1,0 +1,50 @@
+[
+  {
+    createdAt: new Date(),
+    updatedAt: new Date(),
+    productId: "ee3f9e2c-56ad-460d-8557-b323b324164f",
+    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+  },
+  {
+    createdAt: new Date(),
+    updatedAt: new Date(),
+    productId: "253993fb-997e-430f-bed6-6622937ccd7a",
+    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+  },
+  {
+    createdAt: new Date(),
+    updatedAt: new Date(),
+    productId: "7fa6364f-69c6-4992-8f4f-8819d787c405",
+    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+  },
+  {
+    createdAt: new Date(),
+    updatedAt: new Date(),
+    productId: "1c2c8eb7-a244-4952-9426-1029194e2f7b",
+    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+  },
+  {
+    createdAt: new Date(),
+    updatedAt: new Date(),
+    productId: "71aa3943-05e9-4c5e-9f23-7d8743ae826e",
+    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+  },
+  {
+    createdAt: new Date(),
+    updatedAt: new Date(),
+    productId: "05b1e7a6-6482-4bfc-81ab-7c0b0e1ac6d3",
+    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+  },
+  {
+    createdAt: new Date(),
+    updatedAt: new Date(),
+    productId: "5018d4ea-953c-49f1-917d-79120a4dd83d",
+    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+  },
+  {
+    createdAt: new Date(),
+    updatedAt: new Date(),
+    productId: "d5a6a8a0-dd3d-4513-8e05-97d73687b385",
+    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+  }
+]
