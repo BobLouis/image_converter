@@ -1,31 +1,32 @@
 id:1
-name:"MB20 鐵灰"
-description:"ic! Berlin X Mercedes-Benz"
+name:"Trussardi VTR1072"
+description:"意大利品牌Trussardi（楚薩迪） 眼鏡風格或設計上都非常地簡單，每款鏡框都以簡約為主，融合了現代潮流和意式設計，在鏡臂刻印品牌經典的短毛犬LOGO為時尚簡約代表，其出色的設計被用於創造創新的現代眼鏡，適合在充滿活力的都市生活中配戴。Trussardi（楚薩迪）眼鏡有四種風格，分別是都市美感、自信奢侈、個性時尚、懷舊復古，每款眼鏡均傳遞出品牌特有的優雅風格。"
 
 id:2
-name:"MB20 黑"
-description:"ic! Berlin X Mercedes-Benz"
+name:"Trussardi TSM1022T"
+description:"意大利品牌Trussardi（楚薩迪） 眼鏡風格或設計上都非常地簡單，每款鏡框都以簡約為主，融合了現代潮流和意式設計，在鏡臂刻印品牌經典的短毛犬LOGO為時尚簡約代表，其出色的設計被用於創造創新的現代眼鏡，適合在充滿活力的都市生活中配戴。Trussardi（楚薩迪）眼鏡有四種風格，分別是都市美感、自信奢侈、個性時尚、懷舊復古，每款眼鏡均傳遞出品牌特有的優雅風格。"
 
 id:3
-name:"MB19 銀"
-description:"ic! Berlin X Mercedes-Benz"
+name:"Trussardi TSM1032T"
+description:"意大利品牌Trussardi（楚薩迪） 眼鏡風格或設計上都非常地簡單，每款鏡框都以簡約為主，融合了現代潮流和意式設計，在鏡臂刻印品牌經典的短毛犬LOGO為時尚簡約代表，其出色的設計被用於創造創新的現代眼鏡，適合在充滿活力的都市生活中配戴。Trussardi（楚薩迪）眼鏡有四種風格，分別是都市美感、自信奢侈、個性時尚、懷舊復古，每款眼鏡均傳遞出品牌特有的優雅風格。"
 
 id:4
-name:"MB20 古銅"
-description:"ic! Berlin X Mercedes-Benz"
+name:"Trussardi TSM1024T"
+description:"意大利品牌Trussardi（楚薩迪） 眼鏡風格或設計上都非常地簡單，每款鏡框都以簡約為主，融合了現代潮流和意式設計，在鏡臂刻印品牌經典的短毛犬LOGO為時尚簡約代表，其出色的設計被用於創造創新的現代眼鏡，適合在充滿活力的都市生活中配戴。Trussardi（楚薩迪）眼鏡有四種風格，分別是都市美感、自信奢侈、個性時尚、懷舊復古，每款眼鏡均傳遞出品牌特有的優雅風格。"
 
 id:5
-name:"MB20 槍"
-description:"ic! Berlin X Mercedes-Benz"
+name:"Trussardi TSM1030T"
+description:"意大利品牌Trussardi（楚薩迪） 眼鏡風格或設計上都非常地簡單，每款鏡框都以簡約為主，融合了現代潮流和意式設計，在鏡臂刻印品牌經典的短毛犬LOGO為時尚簡約代表，其出色的設計被用於創造創新的現代眼鏡，適合在充滿活力的都市生活中配戴。Trussardi（楚薩迪）眼鏡有四種風格，分別是都市美感、自信奢侈、個性時尚、懷舊復古，每款眼鏡均傳遞出品牌特有的優雅風格。"
 
 id:6
-name:"Thetis 霧黑"
-description:"ic! Berlin X Mercedes-Benz"
+name:"Trussardi TSM6036T"
+description:"意大利品牌Trussardi（楚薩迪） 眼鏡風格或設計上都非常地簡單，每款鏡框都以簡約為主，融合了現代潮流和意式設計，在鏡臂刻印品牌經典的短毛犬LOGO為時尚簡約代表，其出色的設計被用於創造創新的現代眼鏡，適合在充滿活力的都市生活中配戴。Trussardi（楚薩迪）眼鏡有四種風格，分別是都市美感、自信奢侈、個性時尚、懷舊復古，每款眼鏡均傳遞出品牌特有的優雅風格。"
 
 id:7
-name:"Rhodium 黑"
-description:"ic! Berlin X Mercedes-Benz"
+name:"Trussardi VTR6005S"
+description:"意大利品牌Trussardi（楚薩迪） 眼鏡風格或設計上都非常地簡單，每款鏡框都以簡約為主，融合了現代潮流和意式設計，在鏡臂刻印品牌經典的短毛犬LOGO為時尚簡約代表，其出色的設計被用於創造創新的現代眼鏡，適合在充滿活力的都市生活中配戴。Trussardi（楚薩迪）眼鏡有四種風格，分別是都市美感、自信奢侈、個性時尚、懷舊復古，每款眼鏡均傳遞出品牌特有的優雅風格。"
 
 id:8
-name:"Iridium 槍"
-description:"ic! Berlin X Mercedes-Benz"
+name:"Trussardi VTR1084"
+description:"意大利品牌Trussardi（楚薩迪） 眼鏡風格或設計上都非常地簡單，每款鏡框都以簡約為主，融合了現代潮流和意式設計，在鏡臂刻印品牌經典的短毛犬LOGO為時尚簡約代表，其出色的設計被用於創造創新的現代眼鏡，適合在充滿活力的都市生活中配戴。Trussardi（楚薩迪）眼鏡有四種風格，分別是都市美感、自信奢侈、個性時尚、懷舊復古，每款眼鏡均傳遞出品牌特有的優雅風格。"
+

@@ -2,49 +2,49 @@
   {
     createdAt: new Date(),
     updatedAt: new Date(),
-    productId: "ee3f9e2c-56ad-460d-8557-b323b324164f",
-    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+    productId: "bb192e29-c0b0-4d32-bdd1-ce5dcea2a13a",
+    categoryId: '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
   },
   {
     createdAt: new Date(),
     updatedAt: new Date(),
-    productId: "253993fb-997e-430f-bed6-6622937ccd7a",
-    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+    productId: "2304e5ea-cb39-4d35-ac13-ae14f715f985",
+    categoryId: '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
   },
   {
     createdAt: new Date(),
     updatedAt: new Date(),
-    productId: "7fa6364f-69c6-4992-8f4f-8819d787c405",
-    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+    productId: "1218b138-ac76-4e33-a626-c80ff9effb77",
+    categoryId: '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
   },
   {
     createdAt: new Date(),
     updatedAt: new Date(),
-    productId: "1c2c8eb7-a244-4952-9426-1029194e2f7b",
-    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+    productId: "f6233e04-c775-46b4-a158-1e5a7a485fa5",
+    categoryId: '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
   },
   {
     createdAt: new Date(),
     updatedAt: new Date(),
-    productId: "71aa3943-05e9-4c5e-9f23-7d8743ae826e",
-    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+    productId: "879fa655-dbe8-49c5-860f-6e496dc090bd",
+    categoryId: '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
   },
   {
     createdAt: new Date(),
     updatedAt: new Date(),
-    productId: "05b1e7a6-6482-4bfc-81ab-7c0b0e1ac6d3",
-    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+    productId: "9640df56-87ba-488a-ae95-a8c1d1af7df7",
+    categoryId: '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
   },
   {
     createdAt: new Date(),
     updatedAt: new Date(),
-    productId: "5018d4ea-953c-49f1-917d-79120a4dd83d",
-    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+    productId: "ef3ce9ab-c6f3-4c0f-912d-197cb204f68f",
+    categoryId: '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
   },
   {
     createdAt: new Date(),
     updatedAt: new Date(),
-    productId: "d5a6a8a0-dd3d-4513-8e05-97d73687b385",
-    categoryId: 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+    productId: "953d6c4c-2887-4758-b082-2040db323906",
+    categoryId: '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
   }
 ]

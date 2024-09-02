@@ -4,8 +4,8 @@ from datetime import datetime
 
 id = 0
 img_type = 'png'
-brand = 'icberlin'
-category_id = 'd363a521-f60f-4af7-af3a-a2ade66f201e'
+brand = 'trassardi'
+category_id = '7b1cb5b8-0041-4fd8-a7a5-252f58bc36a9'
 
 # Function to generate unique IDs using uuidv4
 def generate_uuid():
@@ -56,8 +56,8 @@ def create_file_object(product_id):
         "deletedAt": "null",
         "id": generate_uuid(),
         "name": f"image{id}_1.{img_type}",
-        "privateUrl": f"https://raw.githubusercontent.com/BobLouis/juxin_{brand}/master/image/image{id}_1.png",
-        "publicUrl": f"https://raw.githubusercontent.com/BobLouis/juxin_{brand}/master/image/image{id}_1.png",
+        "privateUrl": f"https://raw.githubusercontent.com/BobLouis/juxin_{brand}/master/image/image{id}_1.{img_type}",
+        "publicUrl": f"https://raw.githubusercontent.com/BobLouis/juxin_{brand}/master/image/image{id}_1.{img_type}",
         "sizeInBytes": 2012,
         "updatedById": "null",
         "createdAt": "new Date()",
